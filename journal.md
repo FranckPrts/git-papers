@@ -7,3 +7,5 @@ And now; i'm making ref 2 [REF 2].
 
 And now I'm editing from VS code!
 (or Am I?)
+
+- and now from term2
