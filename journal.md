@@ -9,3 +9,4 @@ And now I'm editing from VS code!
 (or Am I?)
 
 - and now from term2
+Try from VS / Pushing from there too
