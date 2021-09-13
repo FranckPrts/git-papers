@@ -10,3 +10,5 @@ And now I'm editing from VS code!
 
 - and now from term2
 Try from VS / Pushing from there too
+
+Good, it's working just fine
