@@ -10,4 +10,6 @@ And now I'm editing from VS code!
 (or Am I?)
 
 - and now from term2
->>>>>>> master
+Try from VS / Pushing from there too
+
+Good, it's working just fine
