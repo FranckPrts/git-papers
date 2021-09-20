@@ -13,3 +13,5 @@ And now I'm editing from VS code!
 Try from VS / Pushing from there too
 
 Good, it's working just fine
+
+Trying new stuff with vs
