@@ -1,8 +1,9 @@
-##Franck learns version control
+% Franck learns version control
 
 _By: Franck_
 
-Intro: I am learning, that's nice [Learn_1-- that's a reference pointing to the reference.txt file in common-git].
+# Intro
+I am learning, that's nice [Learn_1-- that's a reference pointing to the reference.txt file in common-git].
 
 And now; i'm making ref 2 [REF 2].
 
