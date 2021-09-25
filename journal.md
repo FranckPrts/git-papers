@@ -1,6 +1,6 @@
-# Franck learns version control
+# Learning version control
 
-_By: Franck_
+_With: [Franck](https://github.com/FranckPrts)_
 
 ## Intro
 I am learning, that's nice [Learn_1-- that's a reference pointing to the reference.txt file in common-git](https://www.merriam-webster.com/dictionary/reference).
