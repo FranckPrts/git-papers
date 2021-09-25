@@ -14,6 +14,7 @@ $ brew install tree
 ```
 
 And now an image:
+
 <img src="https://github.com/FranckPrts/git-papers/blob/master/common-git/LBA-MODEL.png" width="400">
 
 ## Intro
