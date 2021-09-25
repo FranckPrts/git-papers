@@ -2,6 +2,17 @@
 
 _With: [Franck](https://github.com/FranckPrts)_
 
+## Some .md syntax
+- That's a list
+- It's madde with bullet
+3. Not with number
+4. like this one
+
+Now, let's try to make a `code cell`:
+```shell
+$ git clone https://github.com/RhythmsOfRelating/HybridHarmony.git
+```
+
 ## Intro
 I am learning, that's nice. I can reference file in other folder of that repo such as[reference.txt folder in common-git](https://github.com/FranckPrts/git-papers/blob/master/common-git/reference.txt).
 
