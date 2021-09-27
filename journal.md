@@ -3,10 +3,14 @@
 _With: [Franck](https://github.com/FranckPrts)_
 
 ## Some .md syntax
-- That's a list
-- It's madde with bullet
-3. Not with numbers
-4. like this one
+### Some visuals
+
+Let's do a table
+First col | second | third
+:----: | :----:|:----:|
+26 | 728|17 weeks
+36|1008|24 weeks
+42|1176|28 weeks
 
 Now, let's try to make a `code cell`:
 ```shell
@@ -17,7 +21,15 @@ And now an image:
 
 <img src="https://github.com/FranckPrts/git-papers/blob/master/common-git/LBA-MODEL.png" width="400">
 
-## Intro
+### More text
 I am learning, that's nice. I can reference file in other folder of that repo such as[reference.txt folder in common-git](https://github.com/FranckPrts/git-papers/blob/master/common-git/reference.txt).
 
-And now; i'm making a reference [REF 2](https://www.merriam-webster.com/dictionary/reference).
+And now; i'm making a reference [REF 2](https://www.merriam-webster.com/dictionary/reference). Let's now add a dividing line:
+
+---
+
+And now list**s**
+- That's a list
+- It's madde with bullet
+3. Not with numbers
+4. like this one
