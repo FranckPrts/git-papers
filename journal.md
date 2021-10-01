@@ -34,8 +34,6 @@ da <- da %>%
   filter(event_type=='response',
          !is.na(rt)) %>%
   select(trial_nr, condition, correct_response, rt, choice_key)
-
-d1<-dim(da)[1]
 ```
 
 And now an image:
@@ -55,7 +53,7 @@ And now list**s**
 - That's a list
 - It's madde with bullet points
   - and sub bullet
-  - because nidentation is key sometimes
+  - because indentation is key
 3. Not with numbers
 4. like this one
 
