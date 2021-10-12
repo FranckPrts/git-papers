@@ -1,4 +1,4 @@
-# Learning version control
+# Learning version control and Github's Magic
 
 _With: [Franck](https://github.com/FranckPrts)_
 
